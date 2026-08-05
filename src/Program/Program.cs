@@ -8,7 +8,7 @@
         Console.WriteLine(Division.Divide(7, 8));
     }
 }
-
+// Operación division
 public class Division
 {
    public static double Divide(int a, int b)
