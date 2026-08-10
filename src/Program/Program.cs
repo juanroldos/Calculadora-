@@ -27,7 +27,7 @@ public class Division
    }
 }
 
-// Esta clase implementa la operación <nombre-operación>
+// Esta clase implementa la operación multiplicacion
        public class Multiplication
 {
    public static int Multiply(int a, int b)
