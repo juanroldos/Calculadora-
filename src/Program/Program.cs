@@ -8,7 +8,6 @@
         Console.WriteLine(Division.Divide(7, 8));
     }
 }
-<<<<<<< HEAD
 
 // Esta clase implementa la operación "resta"
 public class Subtraction
@@ -16,13 +15,11 @@ public class Subtraction
    public static int Subtract(int a, int b)
    {
        return a - b;
-=======
 // Operación division
 public class Division
 {
    public static double Divide(int a, int b)
    {
        return (double)a / b;
->>>>>>> Divide
    }
 }
